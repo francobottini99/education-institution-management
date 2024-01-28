@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MenusList>
+	<Menu> "ALTAS PERSONAL" </Menu>
+	<Menu> "ALTAS ALUMNOS" </Menu>
+	<Menu> "ALTAS CURSO" </Menu>
+	<Menu> "ALTAS GRUPO" </Menu>
+	<Menu> "ALTAS MATERIA" </Menu>
+	<Menu> "ALTAS CARGOS DOCENTES" </Menu>
+	<Menu> "MATRICULA" </Menu>	<Menu> "ALTAS MATERIA" </Menu>
+	<Menu> "PERFIL DE USUARIO" </Menu>
+	<Menu> "USUARIO" </Menu>
+</MenusList>
